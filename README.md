@@ -16,4 +16,4 @@ var SCALE_VIDS_HEIGHT = false 	// set to true if footage videos' height should b
 
 And do something nice, because life's too short for manual video editing ;)
 
-![AE Screenshot](/screenshot.png "After Effects Screenshot")
+![AE Screenshot](https://raw.github.com/johnnycrab/AE-Assembly-Script/master/screenshot.png "After Effects Screenshot")
